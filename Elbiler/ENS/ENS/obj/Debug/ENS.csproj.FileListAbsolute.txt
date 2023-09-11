@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\ENS\ENS\bin\Debug\ENS.exe.config
+C:\Users\zbcrabg\source\repos\ENS\ENS\bin\Debug\ENS.exe
+C:\Users\zbcrabg\source\repos\ENS\ENS\bin\Debug\ENS.pdb
+C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.exe
+C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.pdb
