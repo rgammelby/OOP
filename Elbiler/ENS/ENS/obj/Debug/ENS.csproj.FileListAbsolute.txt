@@ -6,3 +6,11 @@ C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.csproj.SuggestedBindingRedir
 C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.csproj.CoreCompileInputs.cache
 C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.exe
 C:\Users\zbcrabg\source\repos\ENS\ENS\obj\Debug\ENS.pdb
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\bin\Debug\ENS.exe.config
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\bin\Debug\ENS.exe
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\bin\Debug\ENS.pdb
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\obj\Debug\ENS.csproj.AssemblyReference.cache
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\obj\Debug\ENS.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\obj\Debug\ENS.csproj.CoreCompileInputs.cache
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\obj\Debug\ENS.exe
+C:\Users\rabga\Github\OOP\Elbiler\ENS\ENS\obj\Debug\ENS.pdb

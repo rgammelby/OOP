@@ -46,7 +46,6 @@
     <Compile Include="Car.cs" />
     <Compile Include="Controller.cs" />
     <Compile Include="GUI.cs" />
-    <Compile Include="Model.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -17,8 +17,7 @@ namespace ENS
         private ConsoleColor _colour;
         
         // Consts
-        // 100!
-        private const byte BATTERY_CAPACITY = 1;
+        private const byte BATTERY_CAPACITY = 100;
         private const byte START_METRES = 0;
 
         // Properties
@@ -60,9 +59,7 @@ namespace ENS
         public void Recharge()
         {
             _battery = 100;
-        }
-
-        
+        }        
 
         // Sets colour to 1 of 3 consolecolors
         public void SetColour()

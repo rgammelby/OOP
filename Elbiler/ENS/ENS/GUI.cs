@@ -6,19 +6,25 @@ using System.Threading.Tasks;
 
 namespace ENS
 {
+    /// <summary>
+    /// Class <c>GUI</c> contains all writes to console.
+    /// </summary>
     public class GUI
     {
+        // prompts the user to select a colour for the first car
         public void Welcome()
         {
             Console.Clear();
             Console.WriteLine("Welcome. \nPlease create a car. \n");
         }
 
+        // prompts the user to select a colour for the second car
         public void SecondCar()
         {
             Console.WriteLine("Please create another car. \n");
         }
 
+        // prompts user to select which car to use
         public void Select()
         {
             Console.WriteLine("Run the first or the second car? \n" +
@@ -43,6 +49,7 @@ namespace ENS
             Console.ResetColor();
         }
 
+        // lets the user pick between 1 of 3 consolecolors
         public void ColourSelection()
         {
             Console.WriteLine("Please choose the colour of your vehicle: \n" +
