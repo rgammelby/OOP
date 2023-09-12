@@ -11,6 +11,8 @@ namespace ENS
         static void Main(string[] args)
         {
             Controller ctrl = new Controller();
+            Console.WriteLine(ctrl.GetBattery());
+            Console.ReadLine();
             ctrl.Start();
         }
     }

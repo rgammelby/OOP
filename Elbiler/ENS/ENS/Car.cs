@@ -17,7 +17,7 @@ namespace ENS
         private ConsoleColor _colour;
         
         // Consts
-        private const byte BATTERY_CAPACITY = 100;
+        private const byte BATTERY_CAPACITY = 1;
         private const byte START_METRES = 0;
 
         // Properties
@@ -42,17 +42,8 @@ namespace ENS
         // "Drives" the car; adds 20 to metres, subtracts 1% from battery
         public void Drive()
         {
-            if (_battery != 0)
-            {
-                _metres += 20;
-                _battery -= 1;
-            }
-            else
-            {
-                // Outputs an error if the user attempts to drive while the Car is at 0% power
-                GUI error = new GUI();
-                error.Error();
-            }
+            _metres += 20;
+            _battery -= 1;
         }
 
         // Recharges the battery of the car; resets to 100

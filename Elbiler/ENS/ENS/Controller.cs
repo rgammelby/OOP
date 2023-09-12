@@ -63,6 +63,14 @@ namespace ENS
             return car;
         }
 
+        // MODEL
+
+        public int GetBattery()
+        {
+            Car car = new Car();
+            return car.Battery;
+        }
+
         // run loop for driving & recharging a car
         public void Run(Car car)
         {
@@ -78,7 +86,10 @@ namespace ENS
                 switch (selection)
                 {
                     case ConsoleKey.D1:
-                        car.Drive();
+                        if (GetBattery() != 0)
+                            car.Drive();
+                        else if (GetBattery() == 0)
+                            gui.Error();
                         break;
 
                     case ConsoleKey.D2:
