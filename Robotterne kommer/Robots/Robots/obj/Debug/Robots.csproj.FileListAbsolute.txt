@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\Robots\Robots\bin\Debug\Robots.exe.config
+C:\Users\zbcrabg\source\repos\Robots\Robots\bin\Debug\Robots.exe
+C:\Users\zbcrabg\source\repos\Robots\Robots\bin\Debug\Robots.pdb
+C:\Users\zbcrabg\source\repos\Robots\Robots\obj\Debug\Robots.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Robots\Robots\obj\Debug\Robots.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\Robots\Robots\obj\Debug\Robots.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Robots\Robots\obj\Debug\Robots.exe
+C:\Users\zbcrabg\source\repos\Robots\Robots\obj\Debug\Robots.pdb
