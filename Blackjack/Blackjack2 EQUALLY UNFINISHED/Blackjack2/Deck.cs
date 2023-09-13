@@ -9,7 +9,7 @@ namespace Blackjack2
 {
     public class Deck
     {
-        private List<Card> _Deck;
+        private List<Card> _deck;
         private string[] suits =
         {
             "♠","♣","♥","♦"
@@ -21,13 +21,22 @@ namespace Blackjack2
         
         public Deck()
         {
+            _deck = new List<Card>();
             FillDeck();
         }
 
-        public List<Card> Cards
+        Random random = new Random();
+
+        public void ShuffleDeck()
         {
-            get { return _Deck; }
-            private set { _Deck = value; }
+            for (int i = 0; i < _deck.Count; i++)
+            {
+                var shuffle = random.Next(0, _deck.Count);
+
+                var card = _deck[i];
+                _deck[i] = _deck[shuffle];
+                _deck[shuffle] = card;
+            }
         }
 
         public void FillDeck()
@@ -51,21 +60,21 @@ namespace Blackjack2
                 }
             }
 
-            _Deck = deck;
+            _deck = deck;
         }
 
+        public Random r = new Random();
         public Card DrawCard(List<Card> deck)
         {
-            Random r = new Random();
-            var card = _Deck[r.Next(0, deck.Count)];
-            _Deck.Remove(card);
+            var card = deck[r.Next(0, deck.Count)];
+            deck.Remove(card);
 
             return card;
         }
 
         public List<Card> GetDeck()
         {
-            return _Deck;
+            return _deck;
         }
     }
 }

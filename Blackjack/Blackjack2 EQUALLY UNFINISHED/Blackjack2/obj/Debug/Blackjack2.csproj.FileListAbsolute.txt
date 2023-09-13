@@ -6,3 +6,10 @@ C:\Users\rabga\source\repos\Blackjack2\Blackjack2\obj\Debug\Blackjack2.csproj.Su
 C:\Users\rabga\source\repos\Blackjack2\Blackjack2\obj\Debug\Blackjack2.csproj.CoreCompileInputs.cache
 C:\Users\rabga\source\repos\Blackjack2\Blackjack2\obj\Debug\Blackjack2.exe
 C:\Users\rabga\source\repos\Blackjack2\Blackjack2\obj\Debug\Blackjack2.pdb
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2 EQUALLY UNFINISHED\Blackjack2\bin\Debug\Blackjack2.exe.config
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2 EQUALLY UNFINISHED\Blackjack2\bin\Debug\Blackjack2.exe
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2 EQUALLY UNFINISHED\Blackjack2\bin\Debug\Blackjack2.pdb
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2 EQUALLY UNFINISHED\Blackjack2\obj\Debug\Blackjack2.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2 EQUALLY UNFINISHED\Blackjack2\obj\Debug\Blackjack2.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2 EQUALLY UNFINISHED\Blackjack2\obj\Debug\Blackjack2.exe
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2 EQUALLY UNFINISHED\Blackjack2\obj\Debug\Blackjack2.pdb

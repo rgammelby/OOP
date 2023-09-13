@@ -16,7 +16,7 @@ namespace Blackjack2
         {
             _suit = "";
             _value = 0;
-            _broadway = 'A';
+            _broadway = ' ';
         }
 
         public Card(string suit) : this()
