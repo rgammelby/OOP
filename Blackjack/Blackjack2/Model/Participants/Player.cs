@@ -63,11 +63,6 @@ namespace Blackjack2
             }
         }
 
-        public int GetValue()
-        {
-            return _value;
-        }
-
         public void EmptyHand()
         {
             _value = 0;

@@ -52,6 +52,7 @@ namespace Blackjack2
 
         #endregion
 
+        // fills the deck
         public void FillDeck()
         {
             List<Card> deck = new List<Card>();
@@ -75,6 +76,7 @@ namespace Blackjack2
             _cards = deck;
         }
 
+        // draws a random card from the deck
         public Random r = new Random();
         public Card DrawCard(List<Card> deck)
         {

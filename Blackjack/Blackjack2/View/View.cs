@@ -10,6 +10,7 @@ namespace Blackjack2
     {
         #region Game Progress
 
+        // prints the contents of the player's hand. red symbol for hearts and diamonds
         public void PrintPlayerHand(Player player)
         {
             Console.WriteLine("\nPlayer's hand: ");
@@ -31,6 +32,7 @@ namespace Blackjack2
                 {
                     Console.Write($"{card.Suit} "); 
                     
+                    // if the card's value is 0 (if it's a broadway card) print its associated symbol instead of the value. if not, print value
                     if (card.Value == 0)
                         Console.Write(card.Broadway + " ");
                     else
@@ -39,6 +41,7 @@ namespace Blackjack2
             }
         }
 
+        // prints dealer's first card. red hearts & diamonds
         public void PrintDealerHand(Dealer dealer)
         {
             Console.WriteLine("Dealer's hand: ");
@@ -58,25 +61,31 @@ namespace Blackjack2
             {
                 Console.Write($"{dealer.Hand[0].Suit} ");
 
+                // -//-
                 if (dealer.Hand[0].Value == 0)
                     Console.Write(dealer.Hand[0].Broadway + " ");
                 else
                     Console.Write(dealer.Hand[0].Value + " ");
             }
+
+            // secret dealer cards
+            Console.Write("##");
         }
 
+        // prints value of player hand for keeping track
         public void PrintPlayerHandValue(Player player)
         {
             Console.WriteLine($"\nPlayer hand sum: {player.Value}");
         }
 
+        // updates console screen with 
         public void UpdateScreen(Player p, Dealer dr)
         {
             PrintDealerHand(dr);
             PrintPlayerHand(p);
         }
 
-
+        // player try again prompt
         public void TryAgain()
         {
             At(Console.CursorTop + 2, 6, "\nWould you like to try again? \n\n" +
@@ -88,6 +97,7 @@ namespace Blackjack2
 
         #region Controls & Control Highlights
 
+        // control info
         public void Controls()
         {
             Console.Clear();
@@ -97,6 +107,7 @@ namespace Blackjack2
             At(30, 2, "[ Esc ] Quit ");
         }
 
+        // highlight the button hit
         public void HighlightHitMe()
         {
             Console.ForegroundColor = ConsoleColor.White;
@@ -123,6 +134,8 @@ namespace Blackjack2
         #endregion
 
         #region Win / Bust Announcements
+
+        // win or bust announcements
         public void ShowdownPlayerWin(Player p, Dealer d)
         {
             Console.ForegroundColor = ConsoleColor.Green;
@@ -167,6 +180,8 @@ namespace Blackjack2
         #endregion
 
         #region Utility
+
+        // tool for writing to a specific location of the console
         public void At(int x, int y, string s)
         {
             var ox = Console.CursorLeft;
@@ -177,6 +192,8 @@ namespace Blackjack2
 
             Console.SetCursorPosition(ox, oy);
         }
+
+        // currently unused, prints the entire contents of the prepared deck
         public void PrintDeck(List<Card> deck)
         {
             foreach (Card card in deck)
