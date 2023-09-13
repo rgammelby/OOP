@@ -1,0 +1,7 @@
+C:\Users\zbcrabg\source\repos\SortingHat\SortingHat\bin\Debug\SortingHat.exe.config
+C:\Users\zbcrabg\source\repos\SortingHat\SortingHat\bin\Debug\SortingHat.exe
+C:\Users\zbcrabg\source\repos\SortingHat\SortingHat\bin\Debug\SortingHat.pdb
+C:\Users\zbcrabg\source\repos\SortingHat\SortingHat\obj\Debug\SortingHat.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\SortingHat\SortingHat\obj\Debug\SortingHat.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\SortingHat\SortingHat\obj\Debug\SortingHat.exe
+C:\Users\zbcrabg\source\repos\SortingHat\SortingHat\obj\Debug\SortingHat.pdb
