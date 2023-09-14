@@ -1,0 +1,7 @@
+C:\Users\zbcrabg\source\repos\TheQueue\TheQueue\bin\Debug\TheQueue.exe.config
+C:\Users\zbcrabg\source\repos\TheQueue\TheQueue\bin\Debug\TheQueue.exe
+C:\Users\zbcrabg\source\repos\TheQueue\TheQueue\bin\Debug\TheQueue.pdb
+C:\Users\zbcrabg\source\repos\TheQueue\TheQueue\obj\Debug\TheQueue.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\TheQueue\TheQueue\obj\Debug\TheQueue.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\TheQueue\TheQueue\obj\Debug\TheQueue.exe
+C:\Users\zbcrabg\source\repos\TheQueue\TheQueue\obj\Debug\TheQueue.pdb

@@ -29,3 +29,10 @@ C:\Users\rabga\Github\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.csproj.Sugge
 C:\Users\rabga\Github\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.csproj.CoreCompileInputs.cache
 C:\Users\rabga\Github\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.exe
 C:\Users\rabga\Github\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.pdb
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2\bin\Debug\Blackjack2.exe.config
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2\bin\Debug\Blackjack2.exe
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2\bin\Debug\Blackjack2.pdb
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.exe
+C:\Users\zbcrabg\Github Integration\OOP\Blackjack\Blackjack2\obj\Debug\Blackjack2.pdb
