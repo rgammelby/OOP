@@ -8,13 +8,17 @@ namespace Library
 {
     public class Model
     {
+        // books list for initial books
         List<Book> books = new List<Book>();
+
+        // loans stack for user loans
         Stack<Book> loans = new Stack<Book>();
 
         public List<Book> GetBooks() { return books; }
 
         public Stack<Book> GetLoans() { return loans; }
 
+        // initializes 5 books for the library
         public void InitializeBooks()
         {
             // author, page count, title, genre (0 -> 4)
@@ -25,7 +29,8 @@ namespace Library
             books.Add(new Book("Anne Carson", 416, "If Not, Winter: Fragments of Sappho", 4, 2002));
         }
 
-        public Book RemoveBookAtIndex(short index)
+        // deletes a book from the books list at the user's chosen index
+        public Book RemoveBookAtIndex(byte index)
         {
             index -= 1;
 
@@ -35,9 +40,16 @@ namespace Library
             return book;
         }
 
+        // adds the chosen book to the user's loans stack
         public void AddBookToLoans(Book book)
         {
             loans.Push(book);
+        }
+
+        // takes a peek at the latest addition to the stack
+        public Book GetTopBookInStack()
+        {
+            return loans.Peek();
         }
     }
 }

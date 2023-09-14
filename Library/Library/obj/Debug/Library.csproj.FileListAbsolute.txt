@@ -5,3 +5,11 @@ C:\Users\zbcrabg\source\repos\Library\Library\obj\Debug\Library.csproj.AssemblyR
 C:\Users\zbcrabg\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
 C:\Users\zbcrabg\source\repos\Library\Library\obj\Debug\Library.exe
 C:\Users\zbcrabg\source\repos\Library\Library\obj\Debug\Library.pdb
+C:\Users\rabga\Github\OOP\Library\Library\bin\Debug\Library.exe.config
+C:\Users\rabga\Github\OOP\Library\Library\bin\Debug\Library.exe
+C:\Users\rabga\Github\OOP\Library\Library\bin\Debug\Library.pdb
+C:\Users\rabga\Github\OOP\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\rabga\Github\OOP\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabga\Github\OOP\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\rabga\Github\OOP\Library\Library\obj\Debug\Library.exe
+C:\Users\rabga\Github\OOP\Library\Library\obj\Debug\Library.pdb
