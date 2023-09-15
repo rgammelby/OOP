@@ -30,7 +30,6 @@ namespace Blackjack2
                 game = true;
                 InitializeGame();
                 Game();
-                Console.Clear();
             }
         }
 
