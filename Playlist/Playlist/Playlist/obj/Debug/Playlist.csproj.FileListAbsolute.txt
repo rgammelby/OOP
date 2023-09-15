@@ -1,0 +1,7 @@
+C:\Users\zbcrabg\source\repos\Playlist\Playlist\obj\Debug\Playlist.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Playlist\Playlist\obj\Debug\Playlist.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Playlist\Playlist\bin\Debug\Playlist.exe.config
+C:\Users\zbcrabg\source\repos\Playlist\Playlist\bin\Debug\Playlist.exe
+C:\Users\zbcrabg\source\repos\Playlist\Playlist\bin\Debug\Playlist.pdb
+C:\Users\zbcrabg\source\repos\Playlist\Playlist\obj\Debug\Playlist.exe
+C:\Users\zbcrabg\source\repos\Playlist\Playlist\obj\Debug\Playlist.pdb
