@@ -129,8 +129,7 @@ namespace Blackjack2
         {
             if (p.Value == 21)
             {
-                GUI.Blackjack();
-                GameEnd();
+                Showdown();
             }
             else if (p.Value > 21)
             {
