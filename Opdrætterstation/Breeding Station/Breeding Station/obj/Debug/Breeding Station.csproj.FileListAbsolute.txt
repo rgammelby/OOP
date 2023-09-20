@@ -1,0 +1,7 @@
+C:\Users\zbcrabg\source\repos\Breeding Station\Breeding Station\bin\Debug\Breeding Station.exe.config
+C:\Users\zbcrabg\source\repos\Breeding Station\Breeding Station\bin\Debug\Breeding Station.exe
+C:\Users\zbcrabg\source\repos\Breeding Station\Breeding Station\bin\Debug\Breeding Station.pdb
+C:\Users\zbcrabg\source\repos\Breeding Station\Breeding Station\obj\Debug\Breeding Station.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Breeding Station\Breeding Station\obj\Debug\Breeding Station.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Breeding Station\Breeding Station\obj\Debug\Breeding Station.exe
+C:\Users\zbcrabg\source\repos\Breeding Station\Breeding Station\obj\Debug\Breeding Station.pdb
