@@ -6,16 +6,21 @@ using System.Threading.Tasks;
 
 namespace Breeding_Station
 {
+    /// <summary>
+    /// The class <c>Rabbit</c> contains a constructor to create a rabbit,
+    /// and a method that allows the user to see all given characteristics of the rabbit.
+    /// </summary>
+
     internal class Rabbit : Mammal
     {
-        public Rabbit(byte bSex, byte bClass, bool bFur, byte bLegs, byte bAge, string sFurType)
+        public Rabbit(byte bSex, byte bClass, bool bFur, byte bLegs, byte bAge, byte sFurType)
         {
             sex = ((Sex)bSex).ToString();
             type = ((Class)bClass).ToString();
             fur = bFur;
             legs = bLegs;
             age = bAge;
-            furtype = sFurType;
+            furType = ((Fur)sFurType).ToString();
         }
 
         public override string PrintAnimal()
@@ -26,7 +31,7 @@ namespace Breeding_Station
                 $"Legs #: {legs} \n" +
                 $"Fur: {fur} \n" +
                 $"Age: {age} years \n" +
-                $"Fur length: {furtype} \n";
+                $"Fur length: {furType} \n";
         }
     }
 }

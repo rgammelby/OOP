@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Breeding_Station
 {
+    /// <summary>
+    /// The class <c>BreedingStation</c> is used for storing and printing information about the program's Animal objects.
+    /// </summary>
+  
     internal class BreedingStation
     {
         protected List<Animal> animals;
@@ -21,6 +25,8 @@ namespace Breeding_Station
             chickens = new List<Chicken>();
         }
 
+        // adds a new animal to the breeding station's overall animal directory
+        // automatically adds the animal to its own type list
         public void AddAnimal(Animal animal)
         {
             animals.Add(animal);
@@ -39,6 +45,7 @@ namespace Breeding_Station
             }
         }
 
+        // prints the contents of the breeding station's general animal directory
         public void PrintAllAnimals()
         {
             foreach (Animal a in animals)
@@ -47,6 +54,7 @@ namespace Breeding_Station
             }
         }
 
+        // prints all dogs
         public void PrintAllDogs()
         {
             foreach (Dog d in dogs)
@@ -55,6 +63,7 @@ namespace Breeding_Station
             }
         }
 
+        // prints all rabbits
         public void PrintAllRabbits()
         {
             foreach (Rabbit r in rabbits)
@@ -63,6 +72,7 @@ namespace Breeding_Station
             }
         }
 
+        // prints all chickens
         public void PrintAllChickens()
         {
             foreach (Chicken c in chickens)

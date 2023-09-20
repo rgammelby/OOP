@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Breeding_Station
 {
+    /// <summary>
+    /// The abstract class <c>Animal</c> provides the baseline for all animals created in the program.
+    /// 'Animal's attributes are characteristics that apply to all animals, and all animals inherit the PrintAnimal() method.
+    /// </summary>
+   
     internal abstract class Animal
     {
         protected string sex;

@@ -8,6 +8,11 @@ namespace Breeding_Station
 {
     internal class Chicken : Animal
     {
+        /// <summary>
+        /// The class <c>Chicken</c> contains a constructor to create a chicken,
+        /// and a method that allows the user to see all given characteristics of the chicken.
+        /// </summary>
+
         public Chicken(byte bSex, byte bClass, bool bFur, byte bLegs, byte bAge)
         {
             sex = ((Sex)bSex).ToString();
