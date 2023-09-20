@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model.cs" />
+    <Compile Include="Model\Model.cs" />
     <Compile Include="Model\Animal.cs" />
     <Compile Include="Model\BreedingStation.cs" />
     <Compile Include="Model\Animals\Chicken.cs" />
-    <Compile Include="Controller.cs" />
+    <Compile Include="Controller\Controller.cs" />
     <Compile Include="Model\Animals\Dog.cs" />
     <Compile Include="Model\Animals\Mammal.cs" />
     <Compile Include="Program.cs" />
