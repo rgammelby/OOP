@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1192EBED-6E49-4C3D-8902-D7EE7BADF65C}</ProjectGuid>
+    <ProjectGuid>{00D348C4-27D7-4F5B-84F4-A7A5524094CB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TheFirm2</RootNamespace>
-    <AssemblyName>TheFirm2</AssemblyName>
+    <RootNamespace>TheFirm</RootNamespace>
+    <AssemblyName>TheFirm</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin.cs" />
-    <Compile Include="CEO.cs" />
-    <Compile Include="CFO.cs" />
     <Compile Include="Controller.cs" />
-    <Compile Include="COO.cs" />
-    <Compile Include="CSuite.cs" />
-    <Compile Include="Director.cs" />
     <Compile Include="Employee.cs" />
-    <Compile Include="HR.cs" />
     <Compile Include="Manager.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProjectManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Staff.cs" />
+    <Compile Include="Sweeper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
