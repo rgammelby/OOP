@@ -43,22 +43,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin.cs" />
-    <Compile Include="CEO.cs" />
-    <Compile Include="CFO.cs" />
-    <Compile Include="Controller.cs" />
-    <Compile Include="COO.cs" />
-    <Compile Include="CSuite.cs" />
-    <Compile Include="Director.cs" />
-    <Compile Include="Employee.cs" />
-    <Compile Include="HR.cs" />
-    <Compile Include="Manager.cs" />
+    <Compile Include="Model\Staff\Admin.cs" />
+    <Compile Include="Model\C-suite\Car.cs" />
+    <Compile Include="Model\C-suite\CEO.cs" />
+    <Compile Include="Model\C-suite\CFO.cs" />
+    <Compile Include="Model\Company.cs" />
+    <Compile Include="Controller\Controller.cs" />
+    <Compile Include="Model\C-suite\COO.cs" />
+    <Compile Include="Model\C-suite\CSuite.cs" />
+    <Compile Include="Model\Directors\Director.cs" />
+    <Compile Include="View\View.cs" />
+    <Compile Include="Model\Workers\Employee.cs" />
+    <Compile Include="Model\Managers\FloorManager.cs" />
+    <Compile Include="Model\Staff\HR.cs" />
+    <Compile Include="Model\Directors\ITDirector.cs" />
+    <Compile Include="Model\Managers\ITManager.cs" />
+    <Compile Include="Model\Managers\Manager.cs" />
+    <Compile Include="Model\Workers\Salesperson.cs" />
+    <Compile Include="Model\Workers\Supporter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Staff.cs" />
+    <Compile Include="Model\Directors\SalesDirector.cs" />
+    <Compile Include="Model\Staff\Staff.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

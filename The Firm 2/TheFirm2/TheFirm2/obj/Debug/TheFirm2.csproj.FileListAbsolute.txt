@@ -1,0 +1,8 @@
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\bin\Debug\TheFirm2.exe.config
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\bin\Debug\TheFirm2.exe
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\bin\Debug\TheFirm2.pdb
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\obj\Debug\TheFirm2.csproj.AssemblyReference.cache
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\obj\Debug\TheFirm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\obj\Debug\TheFirm2.csproj.CoreCompileInputs.cache
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\obj\Debug\TheFirm2.exe
+C:\Users\rabga\Github\OOP\The Firm 2\TheFirm2\TheFirm2\obj\Debug\TheFirm2.pdb
